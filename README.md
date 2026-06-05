@@ -2,14 +2,15 @@
 
 ## Project Layout
 
-accuknox_assignment/ 
-manage.py accuknox_assignment/ 
-signals_demo/ 
-apps.py 
-models.py 
-signals.py 
-rectangle.py 
-tests.py Expected result: 7 passed, 0 failed.
+    accuknox_assignment/ 
+    manage.py accuknox_assignment/ 
+        signals_demo/ 
+        apps.py 
+        models.py 
+        signals.py 
+        rectangle.py 
+        tests.py 
+    Expected result: 7 passed, 0 failed.
 
 ## Q1: Django signals are SYNCHRONOUS
 
